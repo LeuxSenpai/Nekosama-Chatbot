@@ -1,5 +1,5 @@
 Here's a perfect `README.md` file for your Nekosama chatbot project, designed with anime-style aesthetics and clear documentation:
-
+![Image](https://github.com/user-attachments/assets/885f36d9-eb42-4237-8a4b-2e56dbedb9ce)
 ```markdown
 # ฅ^•ﻌ•^ฅ Nekosama AI - Tsundere Catgirl Chatbot
 
